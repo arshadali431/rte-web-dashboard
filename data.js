@@ -4,7 +4,7 @@ const RTE_SUMMARY = {
   "submitted": 0,
   "pending": 0,
   "error": 120,
-  "last_updated": "11-10-2026 02:34:26"
+  "last_updated": "11-10-2026 12:04:30"
 };
 const RTE_DATA = [
   {
@@ -88,7 +88,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ADV S  R PATHAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edc54580>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -102,7 +102,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN KHAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd3b190>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -144,7 +144,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "SOAIB JARIWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edc541c0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -158,7 +158,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "QURESHI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd682e0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -284,7 +284,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ADV S R PATHAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edc543d0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -298,7 +298,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "IMRAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edc54e20>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -340,7 +340,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "nan",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd3a0d0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -578,7 +578,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "Amaan",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd21430>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -886,7 +886,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN KHAN ",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd2d880>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -900,7 +900,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MUKHTAR - 9825686968",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd2dfa0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -1306,7 +1306,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "M G LAKDAWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecbe3700>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -1320,7 +1320,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ADV S R PATHA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecbe3670>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -1376,7 +1376,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ADV S R PATHAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecbe3280>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -1516,7 +1516,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ADV S R PATHAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecbee1f0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -1628,7 +1628,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "QURESHI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecbe3ca0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -1642,7 +1642,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "Amaan",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecbee340>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -1908,7 +1908,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN KHAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecbde1f0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -1950,7 +1950,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "HASNAIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd48b20>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -1964,7 +1964,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ADV S R PATHAAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd3b2b0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2048,7 +2048,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "QURESHI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecbde040>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2146,7 +2146,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "IMRAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecbd9ca0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2202,7 +2202,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "RIZWAN SHAIKH",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd94d30>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2216,7 +2216,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecbd9a60>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2370,7 +2370,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ADV S R PATHAAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecbd9f70>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2384,7 +2384,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "IMRAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecbd9eb0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2454,7 +2454,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecb28310>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2468,7 +2468,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "RIZWAN SHAIKH",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd2df10>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2510,7 +2510,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ADV S R PATHAAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd94b20>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2692,7 +2692,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "NIZAMUDDIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecb8c880>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2720,7 +2720,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN KHAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecbd9910>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2874,7 +2874,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "nan",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd949d0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2958,7 +2958,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN KAHN ",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecb8c910>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -2972,7 +2972,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "IMRAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecb8c520>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -3084,7 +3084,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "NIZAMUDDIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd7bc70>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -3308,7 +3308,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ADV S R PATHAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecb8cd90>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -3350,7 +3350,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MADNI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edc54f10>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -3420,7 +3420,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "QURESHI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edc54250>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -3448,7 +3448,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "HASNAIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecb8c1c0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -3518,7 +3518,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "SHAIKH NIZAMUDDIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edc54eb0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -3532,7 +3532,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "HASNAIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edc54820>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -3630,7 +3630,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec14ab20>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -3742,7 +3742,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "Amaan",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec14a640>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -3798,7 +3798,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "RIZWAN SHAIKH",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec207ee0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4022,7 +4022,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "IMRAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec14ad60>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4092,7 +4092,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "HASNAIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec14a430>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4162,7 +4162,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "M G LAKDAWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd7c0a0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4218,7 +4218,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "M G LAKDAWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd3a730>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4232,7 +4232,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "M G LAKDAWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd21490>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4358,7 +4358,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd483d0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4414,7 +4414,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "Amaan",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd21880>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4428,7 +4428,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "SOAIB JARIWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecc11130>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4442,7 +4442,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "NIZAMUDDIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecc119a0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4526,7 +4526,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "RIZWAN SHAIKH",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecc115e0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4708,7 +4708,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "RIZWAN SHAIKH",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecc11820>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4750,7 +4750,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ADV S R PATAHN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecc11c70>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4820,7 +4820,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "RIZWAN SHAIKH",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd65190>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4876,7 +4876,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "NIZAMUDDIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd65520>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4932,7 +4932,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "RIZWAN SHAIKH",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecc11160>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -4946,7 +4946,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "Amaan",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecc11250>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5156,7 +5156,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecc11ca0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5268,7 +5268,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "SOAIB JARIWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec422eb0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5282,7 +5282,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "AMAAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec425b20>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5296,7 +5296,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "RIZWAN SHAIKH",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec425400>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5310,7 +5310,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "RIZWAN SHAIKH",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec425d30>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5534,7 +5534,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "SOAIB JARIWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec425610>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5576,7 +5576,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN KHAN ",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd3aa30>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5590,7 +5590,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "M G LAKDAWAL",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edce11c0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5604,7 +5604,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MUKHTAR",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd65f10>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5632,7 +5632,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "IMRAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecb9d190>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5646,7 +5646,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN KHAN ",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec2076d0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5660,7 +5660,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN KHAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec42a250>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5674,7 +5674,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN KHAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec42a5b0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5688,7 +5688,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "PARVEZ",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec42acd0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -5856,7 +5856,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "HASNAIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec42aac0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6052,7 +6052,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOSIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec42afd0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6066,7 +6066,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "mosin",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edce3af0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6080,7 +6080,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "mosin",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec426250>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6178,7 +6178,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MUSTAK",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec41dcd0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6276,7 +6276,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec14ddc0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6388,7 +6388,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ARSHAD ALI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec4225b0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6444,7 +6444,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "SOAIB JARIWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec5baee0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6500,7 +6500,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ARSHAD ALI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec59be80>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6542,7 +6542,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec59b3d0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6556,7 +6556,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "SOAIB JARIWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec59b760>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6710,7 +6710,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec59bc70>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6738,7 +6738,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec422850>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6752,7 +6752,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "M G LAKDAWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd86a30>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6808,7 +6808,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "NIZAMUDDIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecc11130>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -6878,7 +6878,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "NIZAMUDDIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec42a400>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -7060,7 +7060,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHAMAD JAVID KUMBHAR",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec42a0a0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -7242,7 +7242,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "M G LAKDAWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec42afa0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -7368,7 +7368,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN KHAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec5ba310>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -7424,7 +7424,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "HASNAIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec5baaf0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -7480,7 +7480,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "SOAIB JARIWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56edd7c7c0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -7592,7 +7592,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MADNI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec5ba8b0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -7732,7 +7732,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ARSHAD ALI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec59b7f0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -7788,7 +7788,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "RIZWAN SHAIKH",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec5bab80>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -7886,7 +7886,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec5ba4f0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -7928,7 +7928,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "SOAIB JARIWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec5ba730>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -8096,7 +8096,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ARSHAD ALI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec5bab20>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -8222,7 +8222,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "HASNAIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56eca38460>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -8516,7 +8516,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MOHSIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56eca38880>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -8586,7 +8586,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "NIZAMUDDIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56eca38f70>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9034,7 +9034,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "RIZWAN SHAIKH",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56eca16370>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9132,7 +9132,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "HASNAIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56eca38c10>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9188,7 +9188,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "Amaan",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56eddc7430>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9216,7 +9216,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "SAMIR MOMIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ecb9d4c0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9328,7 +9328,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MADNI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec59b130>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9468,7 +9468,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ADV S R PATHAN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec59b580>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9496,7 +9496,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "HASNAIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec96faf0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9552,7 +9552,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "NAWAZ SHAIKH",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec6fb580>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9580,7 +9580,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "HASNAIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec6fb9a0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9594,7 +9594,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "SOAIB JARIWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec14de80>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9622,7 +9622,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "RIZWAN SHAIKH",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec6fbd30>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9650,7 +9650,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "SOAIB JARIWALA",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec5c1430>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9664,7 +9664,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "NIZAMUDDIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ede49fd0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9720,7 +9720,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "ARSHAD ALI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56eca388e0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9902,7 +9902,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "HASNAIN",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56eca38940>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9930,7 +9930,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MADNI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56eddc7430>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
@@ -9944,7 +9944,7 @@ const RTE_DATA = [
     "Pincode": "N/A",
     "Gam": "N/A",
     "Filled By": "MADNI",
-    "Status (Gujarati)": "ERROR: 503 Server Error: Service Unavailable for url: https://rte.orpgujarat.com/ApplicationFormStatus",
+    "Status (Gujarati)": "ERROR: HTTPSConnectionPool(host='rte.orpgujarat.com', port=443): Max retries exceeded with url: /ApplicationFormStatus (Caused by ConnectTimeoutError(<HTTPSConnection(host='rte.orpgujarat.com', port=443) at 0x7f56ec43b5b0>, 'Connection to rte.orpgujarat.com timed out. (connect timeout=15)'))",
     "Result": "ERROR"
   },
   {
