@@ -4,7 +4,7 @@ const RTE_SUMMARY = {
   "submitted": 0,
   "pending": 0,
   "error": 120,
-  "last_updated": "17-10-2026 09:53:31"
+  "last_updated": "17-10-2026 14:36:51"
 };
 const RTE_DATA = [
   {
